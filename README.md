@@ -16,8 +16,7 @@
 <img width="927" alt="5  문자열을 정수로 바꾸기" src="https://user-images.githubusercontent.com/91178712/140752447-079cc92b-f376-4451-8d44-ccd510180e5c.png">
 
 6. 없는 숫자 더하기
-<img width="971" alt="6  없는 숫자 더하기" src="https://user-images.githubusercontent.com
-/91178712/140752458-e5157e60-7a74-490b-bf36-08020afe6359.png">
+<img width="971" alt="6  없는 숫자 더하기" src="https://user-images.githubusercontent.com/91178712/140753550-c8eeb5a3-8774-412a-98e2-8f7bd6b2dadf.png">
 
 7. 음양 더하기
 <img width="1186" alt="7  음양 더하기" src="https://user-images.githubusercontent.com/91178712/140752481-c58612a8-68e4-4f2c-85e8-6b3572481049.png">
