@@ -1,7 +1,7 @@
 # Algorithm Quiz
 
 1. 직사각형 별찍기
-  https://github.com/Jay1025/Study/issues/2#issue-1047454239
+
 2. 짝수와 홀수
 
 3. 가운데 글자 가져오기
