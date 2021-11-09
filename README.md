@@ -1,4 +1,4 @@
-# Algorithm Quiz
+# Algorithm Quiz Day1
 
 1. 직사각형 별찍기
 <img width="1086" alt="1  직사각형 별찍기" src="https://user-images.githubusercontent.com/91178712/140750547-ede5f0d4-a03e-48ad-91a2-498c32781a04.png">
