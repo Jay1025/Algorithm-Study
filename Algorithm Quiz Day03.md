@@ -1,1 +1,1 @@
-#Algorithm Quiz Day03
+#Algorithm Quiz Day3
