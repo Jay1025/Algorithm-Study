@@ -29,3 +29,9 @@
 
 #26. 제일 작은 수 제거하기
 <img width="1077" alt="26  제일 작은 수 제거하기" src="https://user-images.githubusercontent.com/91178712/141053014-20473dea-5075-442c-93e6-bd25062e88c4.png">
+
+#27. 콜라츠 추측
+<img width="1019" alt="27  콜라츠 추측" src="https://user-images.githubusercontent.com/91178712/141110237-b4a15942-305c-433e-8ee5-a505bba3a526.png">
+
+#28. 하샤드 
+<img width="1009" alt="28  하샤드 수" src="https://user-images.githubusercontent.com/91178712/141110256-ac2c1fba-6ea2-47fe-bd08-22eed85fd5a3.png">
