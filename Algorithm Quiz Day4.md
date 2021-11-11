@@ -12,7 +12,9 @@
 #32번 두 개 뽑아서 더하기
 <img width="1110" alt="32  두 개 뽑아서 더하기" src="https://user-images.githubusercontent.com/91178712/141282227-65d26099-3a8b-4613-92d8-d65bfe795678.png">
 
+
 #33번 로또의 순위 해답
+
 <img width="314" alt="33  로또의 순위 해답" src="https://user-images.githubusercontent.com/91178712/141282272-358550fd-d6af-4a84-9b50-0feb7a611013.png">
 
 #34번 모의고사
