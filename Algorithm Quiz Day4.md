@@ -14,10 +14,8 @@
 
 
 #33번 로또의 순위 해답
-
 <img width="314" alt="33  로또의 순위 해답" src="https://user-images.githubusercontent.com/91178712/141282272-358550fd-d6af-4a84-9b50-0feb7a611013.png">
 
 
 #34번 모의고사
-
 <img width="538" alt="34  모의고사(1)" src="https://user-images.githubusercontent.com/91178712/141282287-eb1e9be6-9f8a-48c0-9112-ffdbb4fef46a.png">
