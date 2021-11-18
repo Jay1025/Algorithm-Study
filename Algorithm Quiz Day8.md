@@ -1,4 +1,4 @@
-#Algorithm Quiz Day7
+#Algorithm Quiz Day8
 
 #41번
 
