@@ -1,4 +1,4 @@
-#Algorithm Quiz Day 13
+#Algorithm Quiz Day13
 
 46번. 소수 찾기
 
