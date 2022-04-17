@@ -13,7 +13,7 @@ def find_max_plus_or_multiply(array):
         if item <= 1 or multiply_sum <= 1:
             multiply_sum += item
         else:
-            multiply_sum * item
+            multiply_sum *= item
     return multiply_sum
 
 result = find_max_plus_or_multiply(input)
